@@ -6,7 +6,7 @@ Project made in R language, with the help of R shiny package.
 
 To copy->
 1) Install RStudio
-2) Install all the libraries mentioned in Header file
+2) Install all the libraries mentioned in Header section of R file
 3) Install the given datasets, and change their paths in the code to your own relative path
 4) Thats all, run the code ;)
 
